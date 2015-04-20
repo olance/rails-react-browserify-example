@@ -15,4 +15,6 @@
 //= require turbolinks
 //= require react
 //= require react_ujs
-//= require_tree .
+
+// Pull in our top-level components in the main javascript entry point
+require('./components');
