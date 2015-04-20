@@ -6,3 +6,6 @@ article [Rails, React, Browserify](https://medium.com/@olance/rails-react-browse
 It shows how to integrate [React](https://facebook.github.io/react/) and
 [Browserify](http://browserify.org/) together in a Ruby on Rails application.
 
+## License
+
+The MIT license. See LICENSE file.
