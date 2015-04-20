@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "name": "rails-react-browserify-example",
+  "version": "1.0.0",
+  "description": "An example app for my article \"Rails, React, Browserify\"",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olance/rails-react-browserify-example.git"
+  },
+  "author": "Olivier Lance",
+  "license": "MIT, see LICENSE file",
+  "bugs": {
+    "url": "https://github.com/olance/rails-react-browserify-example/issues"
+  },
+  "homepage": "https://github.com/olance/rails-react-browserify-example",
+
+  "devDependencies" : {
+    "browserify": "~9.0.8",
+    "browserify-incremental": "^3.0.0"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  }
+}
