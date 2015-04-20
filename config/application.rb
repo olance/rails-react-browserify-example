@@ -22,5 +22,8 @@ module RailsReactBrowserifyExample
 
     # Do not swallow errors in after_commit/after_rollback callbacks.
     config.active_record.raise_in_transactional_callbacks = true
+
+    # Tell browserify-rails how to treat .js.jsx files
+    config.browserify_rails.commandline_options = "-t reactify --extension=\".js.jsx\""
   end
 end

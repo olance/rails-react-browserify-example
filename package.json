@@ -14,10 +14,10 @@
     "url": "https://github.com/olance/rails-react-browserify-example/issues"
   },
   "homepage": "https://github.com/olance/rails-react-browserify-example",
-
-  "devDependencies" : {
+  "devDependencies": {
     "browserify": "~9.0.8",
-    "browserify-incremental": "^3.0.0"
+    "browserify-incremental": "^3.0.0",
+    "reactify": "^1.1.0"
   },
   "engines": {
     "node": ">= 0.10"
