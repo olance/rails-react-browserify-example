@@ -46,3 +46,6 @@ end
 
 # react-rails eases React integration
 gem 'react-rails', '~> 1.0'
+
+# browserify-rails helps with Browserify integration within Rails
+gem 'browserify-rails', '~> 0.9.1'
